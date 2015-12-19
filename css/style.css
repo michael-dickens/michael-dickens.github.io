@@ -1,24 +1,35 @@
 body {
     
-    background-color: #BFAF80 ;
+    background-color: #c08a81;
 }
 
 h2{
  font-family: 'Allan', Helvetica, Arial, sans-serif;
  font-size: 70px;
  line-height: 75px;
+ color: white;
+ padding-left: 20px;
+padding-right: 20px;
 }
 
 h3{
  font-family: 'Allan', Helvetica, Arial, sans-serif;
  font-size: 40px;
  line-height: 75px;
+ color: white;
+ padding-left: 20px;
+padding-right: 20px;
 }
 
 p {
  font-family: 'Cardo', Georgia, Times, serif;
- font-size: 24px;
+ font-size: 21px;
  line-height: 25px;
+ color: white;
+ padding-top: 10px;
+ padding-bottom: 10px;
+padding-left: 25px;
+padding-right: 20px;
 }
 
 .navbar-custom{
@@ -37,9 +48,14 @@ p {
     color:#eeeeee;
 }
 
+.index_txt {
+ background-color: #824a59;
+ border-color: #824a59;
+ }
+
 .portfolio-thumbnail {
- background-color: #F2EEB3;
- border-color:#F2EEB3;
+ background-color: #824a59;
+ border-color: #824a59;
  }
 
  .jumbotron {
@@ -70,16 +86,26 @@ p {
     color:white;
  }
  .Resume-box {
- background-color: #F2EEB3;
- border-color:#F2EEB3;
+ background-color: #824a59;
+ border-color:#824a59;
  }
 
  .Resume-box h3{
     text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
  }
  .Resume-box h4{
 font-size: 24px;
+color: white;
+padding-bottom: 10px;
+padding-left: 5px;
+padding-right: 5px;
  }
  .Resume-box ul{
     font-size: 18px;
+    color: white;
+    padding-bottom: 10px;
  }
