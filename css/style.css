@@ -1,5 +1,5 @@
 body {
-    
+
     /* background-image: url("jj.jpg"); */
     background-color: white
 }
@@ -70,6 +70,17 @@ p {
  border-color: red;
  }
 
+
+.thumbnail img {
+ height: 100%;
+    width: 100%;
+}
+
+ .maincontain {
+  background-color: red;
+  border-color: red;
+  }
+
 .portfolio-thumbnail:hover{
     background-color: #ff6666;
     border-color: #ff6666;
@@ -93,6 +104,13 @@ p {
  .jumbotron p {
  	font-size: 24px;
  	color:#fff;
+ }
+
+ .footermain{
+   background-color: red;
+   text-align: center;
+   opacity: 0.50;
+   width: 100%
  }
 
  .menu{
