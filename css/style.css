@@ -48,11 +48,7 @@ p {
 }
 .navbar-custom .navbar-nav > li > a:hover,
 .navbar-custom .navbar-nav > li > a:focus {
-    color:  #260126;
-}
-
-.navbar-custom > a:hover{
-    background-color: #ff6666;
+    background-color:  #FF717E;
 }
 
 .navbar-custom .navbar-brand {
@@ -66,8 +62,8 @@ p {
  }
 
 .portfolio-thumbnail {
- background-color: red;
- border-color: red;
+ background-color: #FF717E;
+ border-color: #FF717E;
  }
 
 
@@ -82,8 +78,8 @@ p {
   }
 
 .portfolio-thumbnail:hover{
-    background-color: #ff6666;
-    border-color: #ff6666;
+    background-color: red;
+    border-color: red;
 }
 
  .jumbotron {
@@ -120,8 +116,8 @@ p {
     color:white;
  }
  .Resume-box {
- background-color: red;
- border-color:red;
+ background-color: #FF717E;
+ border-color:#FF717E;
  }
 
  .Resume-box h3{
