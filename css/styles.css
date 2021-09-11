@@ -1,0 +1,158 @@
+/*COLOR PALETTES 
+#E9E1CC
+#EA9085
+#D45079
+#832161
+*/
+
+/*
+div{
+    background-color: #EA9085;
+}
+*/
+
+body {
+  color: #40415e;
+  margin: 0px;
+  text-align: center;
+  font-family: "Garamond", serif;
+}
+
+.footer-link {
+  font-family: "Montserrat", sans-serif;
+  color: #832161;
+  font-size: 1.17rem;
+  text-decoration: none;
+  padding: 20px 20px 20px 20px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #d45079;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #d45079;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 2rem ;
+  font-family: "Montserrat", sans-serif;
+  color: #832161;
+}
+
+p {
+  font-size: 1.25rem;
+  line-height: 2;
+}
+
+a {
+  color: #832161;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#E9E1CC
+}
+
+.bar-text {
+  color: #832161;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.17rem;
+  text-decoration: none;
+}
+
+.GIS {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 9px;
+  border-color: #e9e1cc;
+}
+
+.top-container {
+  background-color: #ea9085;
+  position: relative;
+  padding: 3% 0%;
+}
+
+.navbar {
+  position: fixed;
+  object-fit: cover;
+  width: 100px;
+  bottom: 40%;
+}
+
+.Bar {
+  border-style: inset, none, none, none;
+  border-color: #ea9085;
+  margin: 0;
+}
+.bar-button {
+  background-color: #d45079;
+  object-fit: cover;
+}
+
+.profile {
+  width: 75%;
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  background-color: #ea9085;
+  padding: 3%
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.me {
+  object-fit: cover;
+  height: 150px;
+}
+
+.skill-row {
+  width: 75%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-img {
+  width: 15%;
+  float: left;
+  padding-right: 30px;
+}
+
+.skill-img2 {
+  width: 15%;
+  float: right;
+  padding-left: 30px;
+}
+
+.pro {
+  font-weight: normal;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
